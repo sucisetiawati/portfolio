@@ -13,30 +13,6 @@
   }
 }
 
-@media screen and (max-width: 1366px) {
-  body p {
-    font-size: 30px;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  body p {
-    font-size: 20px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  body p {
-    font-size: 10px;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  body p {
-    font-size: 8px;
-  }
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
