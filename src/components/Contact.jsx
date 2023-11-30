@@ -33,7 +33,7 @@ const Contact = () => {
                         <div className='flex justify-center items-center flex-col'>
                             <a
                                 className='flex items-center w-full text-gray-300'
-                                href='/'
+                                href='//www.linkedin.com/in/suci-setiawati-06b36b1b0/'
                             >
                                 <FaLinkedin size={50} />&nbsp;Suci Setiawati
                             </a>
@@ -45,7 +45,7 @@ const Contact = () => {
                         <div className='flex justify-center items-center flex-col'>
                             <a
                                 className='flex items-center w-full text-gray-300'
-                                href='/'
+                                href='//github.com/sucisetiawati'
                             >
                                 <FaGithub size={50} />&nbsp;&nbsp;Suci Setiawati
                             </a>
