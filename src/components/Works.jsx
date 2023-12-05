@@ -90,7 +90,7 @@ const Works = () => {
                                     <p className='text-center'>A CBT web application built with React and Mongodb</p>
                                     <div className='pt-8 text-center'>
                                         <a href='/'>
-                                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                                            <button to='portoa' className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                                 Demo
                                             </button>
                                         </a>
@@ -101,8 +101,8 @@ const Works = () => {
                     </Slide>
 
                 </div>
-            </div>
-        </div>
+            </div >
+        </div >
     );
 };
 export default Works;
